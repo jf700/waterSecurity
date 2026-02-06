@@ -1,0 +1,45 @@
+region,PC1,PC1_class
+Central California Coastal,6.3871375818453116,PC1_class2
+Southern California Coastal,4.382297721331809,PC1_class2
+Northern Mojave-Mono Lake,5.840428894734519,PC1_class2
+San Francisco Bay,4.77077333880895,PC1_class2
+Southern Mojave-Salton Sea,2.719730516255579,PC1_class2
+Sacramento,2.8452121770414553,PC1_class2
+North Lahontan,1.9760559187830111,PC1_class2
+Upper Columbia,-7.694779425683851,PC1_class0
+Puget Sound,-8.545761403853772,PC1_class0
+Yakima,-6.615974913476176,PC1_class0
+Lower Green,2.423123994758658,PC1_class2
+Lower Snake,-2.665505802336398,PC1_class0
+Middle Snake,-0.8438678185829773,PC1_class0
+Black Rock Desert-Humboldt,1.012434399307565,PC1_class1
+Colorado Headwaters,-0.24591953207603143,PC1_class1
+San Joaquin,5.156599645753247,PC1_class2
+Tulare-Buena Vista Lakes,6.63547717515708,PC1_class2
+Lower Gila,0.21182317127041983,PC1_class1
+Gunnison,-0.2086308356393349,PC1_class1
+Central Nevada Desert Basins,3.5056680161345373,PC1_class2
+Central Lahontan,2.999192492536481,PC1_class2
+Great Salt Lake,1.564210441431525,PC1_class1
+Upper Colorado-Dirty Devil,3.0479276817156467,PC1_class2
+Upper Colorado-Dolores,1.4028049890479706,PC1_class1
+White-Yampa,0.18232498822225662,PC1_class1
+San Juan,1.0012210035284825,PC1_class1
+Great Divide-Upper Green,-0.10246525675384428,PC1_class1
+Lower Colorado,1.33572358676839,PC1_class1
+Salt,1.0083166250048778,PC1_class1
+Middle Gila,-3.2714119302016993,PC1_class0
+Sonora,-5.363185907941002,PC1_class0
+Little Colorado,0.639497550927114,PC1_class1
+Lower Colorado-Lake Mead,3.242553505171101,PC1_class2
+Upper Gila,-3.1299191687996393,PC1_class0
+Oregon-Washington Coastal,-4.95810195547458,PC1_class0
+Bear,-0.1433818013600587,PC1_class1
+Escalante Desert-Sevier Lake,2.9643010757652055,PC1_class2
+Kootenai-Pend Oreille-Spokane,-5.8095955939007045,PC1_class0
+Upper Snake,-0.8515087787945368,PC1_class0
+Oregon Closed Basins,-1.219300651047615,PC1_class0
+Middle Columbia,-4.37441386562175,PC1_class0
+Klamath-Northern California Coastal,0.6997962422037715,PC1_class1
+Lower Columbia,-6.48546066303331,PC1_class0
+Willamette,-5.425447428927679,PC1_class0
